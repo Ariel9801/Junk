@@ -2,8 +2,9 @@
 
 
 <br>
-* 動的ゾーン表示
-[動的ゾーン表示](https://help.tableau.com/current/pro/desktop/en-us/dynamic_zone_visibility.htm)
+* 壁紙
+
+[2022/10/26](https://twitter.com/yougene_colopl/status/1585150482347089920?s=20&t=PVH3pgEgpyKslKgRqVgBcQ)
 
 
 
